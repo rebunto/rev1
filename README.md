@@ -8,9 +8,7 @@ Python 3.10 or later
 
 ## Usage
 
-Download `rev1.py` manually.
-
-Put it on your working directory.
+Download `rev1.py` manually, and put it on your working directory.
 
 ```python
 import rev1
