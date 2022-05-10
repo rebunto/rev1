@@ -26,6 +26,8 @@ print(parsed.info)
 
 The classes and their member variables are based on [Covariance Data File Formats for Whisper-1.0 & Whisper-1.1](https://mcnp.lanl.gov/pdf_files/la-ur-17-20098.pdf). Please refer to it.
 
-`zaid.py` can encode general zaids into internal zaid expression of Rev-1, and vice versa.
+## Note
 
-`example.py` shows an example of parsing a Rev-1 file.
+- `zaid.py` can encode general zaids into internal zaid expression of Rev-1, and vice versa.
+
+- `example.py` shows an example of parsing a Rev-1 file.
