@@ -26,6 +26,6 @@ The classes and their member variables are based on [Covariance Data File Format
 
 ## Note
 
-- `zaid.py` can encode general zaids into internal zaid expression of Rev-1, and vice versa.
+- `zaid.py` can encode general zaids into internal expressions of Rev-1, and vice versa.
 
 - `example.py` shows an example of parsing a Rev-1 file.
