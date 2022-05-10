@@ -1,6 +1,6 @@
 # rev1
 
-Parse [MCNP](https://mcnp.lanl.gov) Rev-1 file
+Parse [MCNP](https://mcnp.lanl.gov) Rev-1 files
 
 ## Environment
 
